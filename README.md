@@ -12,7 +12,7 @@
 
 <a href="https://github.com/Angelito-OFC/XiaBot-Pro">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=XiaBot-Pro&theme=algolia&locale=es)</a>
 
-<a href="https://github.com/Angelito-OFC/Genesis Bot-Pro1">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=GenesisBot-Pro1&theme=algolia&locale=es)</a>
+<a href="https://github.com/Angelito-OFC/Genesis Bot-MD">![github card](https://github-readme-stats.vercel.app/api/pin/?username=Angelito-OFC&repo=GenesisBot-MD&theme=algolia&locale=es)</a>
 
 
 
