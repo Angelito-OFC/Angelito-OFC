@@ -1,4 +1,4 @@
- <a href="https://github.com/Angelito-OFC"><img src="https://cardivo.vercel.app/api?name=Mi-perfil&description=Hola+Soy+Angelito+OFC.+Creador+de+Génesis-Bot.&image=https://f.uguu.se/jMphjvfi.jpg/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=angelito.kzx&whatsapp=Angel_OFC&pattern=leaf&colorPattern=%23eaeaea" /></a>
+ <a href="https://github.com/Angelito-OFC"><img src="https://cardivo.vercel.app/api?name=Mi-perfil&description=Hola+Soy+Angelito+OFC.+Creador+de+Génesis-Bot.&image=https://i.ibb.co/wgKqYKN/IMG-20241206-212020.png/revision/latest?cb=20200606024545&usqp=CAU&usqp=CAU&backgroundColor=%23ecf0f1&instagram=angelito.kzx&whatsapp=Angel_OFC&pattern=leaf&colorPattern=%23eaeaea" /></a>
 
 ### ESTADÍSTICAS 🏆
 
